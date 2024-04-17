@@ -4,9 +4,9 @@
 
 ## Sobre mí
 - 🎓 Actualmente soy estudiante de **DAW** en [Ins Les Salines](https://inslessalines.cat/index.php/ca/).
-- 💻 Me encanta aprender sobre desarrollo web, ciencia de datos y mucho más.
+- 💻 Me encanta aprender sobre **desarrollo web**, **ciencia de datos** y mucho más.
 - 🌱 Siempre estoy buscando nuevas oportunidades de aprendizaje y crecimiento.
-- 📫 Puedes contactarme en izaskun.acevedo@gmail.com o seguirme en mis redes sociales (enlaces más abajo).
+- 📫 Puedes contactarme en izaskun.acevedo@gmail.com o seguirme en mis redes sociales *(enlaces más abajo)*.
 
 ## Proyectos destacados
 Aquí hay algunos de los proyectos en los que he estado trabajando recientemente:
