@@ -3,7 +3,7 @@
 ¡Hola! Soy Izaskun Acevedo, estudiante entusiasta de la programación y apasionada por la tecnología. Bienvenido a mi perfil de GitHub, donde puedes encontrar una variedad de proyectos y contribuciones.
 
 ## Sobre mí
-- 🎓 Actualmente soy estudiante de DAW en [Ins Les Salines](https://inslessalines.cat/index.php/ca/).
+- 🎓 Actualmente soy estudiante de **DAW** en [Ins Les Salines](https://inslessalines.cat/index.php/ca/).
 - 💻 Me encanta aprender sobre desarrollo web, ciencia de datos y mucho más.
 - 🌱 Siempre estoy buscando nuevas oportunidades de aprendizaje y crecimiento.
 - 📫 Puedes contactarme en izaskun.acevedo@gmail.com o seguirme en mis redes sociales (enlaces más abajo).
