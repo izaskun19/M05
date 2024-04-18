@@ -12,7 +12,6 @@
 
 ## 🖥️ Experiencia profesional 
 ### Volkswagen Group Services
-### **Volkswagen Group Services**
 #### Software Developer
 ##### 2023 - actualidad
 - **Responsabilidades**: Desarrollo y mantenimiento de aplicaciones para Audi utilizando COBOL, JCL y DB2.
