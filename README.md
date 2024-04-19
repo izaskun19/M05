@@ -7,7 +7,7 @@
 - 🎓 Actualmente soy estudiante de **DAW** en [Ins Les Salines](https://inslessalines.cat/index.php/ca/).
 - 💻 Me encanta aprender sobre **desarrollo web**, **ciencia de datos** y mucho más.
 - 🌱 Siempre estoy buscando nuevas oportunidades de aprendizaje y crecimiento.
-- 📫 Puedes contactarme en izaskun.acevedo@gmail.com o seguirme en mi [LinkedIn]([https://inslessalines.cat/index.php/ca/](https://www.linkedin.com/in/izaskun-acevedo-campos-7a6a0a167/)).
+- 📫 Puedes contactarme en izaskun.acevedo@gmail.com o seguirme en mi [LinkedIn](https://www.linkedin.com/in/izaskun-acevedo-campos-7a6a0a167/).
 
 
 ## 🖥️ Experiencia profesional 
